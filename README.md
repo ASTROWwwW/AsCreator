@@ -1,4 +1,4 @@
-# 🌟 AsCreator - Personnalisation et Interface Cinématique pour FiveM
+# 🌟 AsCreator 
 
 AsCreator est un ensemble de scripts pour la personnalisation de personnages et une interface cinématique dans FiveM, conçu pour s’intégrer avec **ESX Legacy** et **RageUI**.
 
@@ -22,21 +22,6 @@ AsCreator est un ensemble de scripts pour la personnalisation de personnages et 
 - **RageUI** pour l’interface utilisateur
 - **oxmysql** pour la gestion des données
 
-## ⚙️ Installation
-
-1. Clonez le dépôt dans le dossier `resources` de votre serveur FiveM.
-    ```bash
-    git clone <url-du-repo> resources/[votre dossier]
-    ```
-2. Vérifiez qu'**ESX Legacy**, **RageUI**, et **oxmysql** sont installés et configurés.
-3. Ajoutez les scripts dans votre `server.cfg` :
-    ```plaintext
-    ensure 3dText
-    ensure cinematique
-    ensure main
-    ensure server
-    ```
-4. Redémarrez votre serveur.
 
 ## 🎮 Utilisation
 
